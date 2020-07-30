@@ -40,5 +40,5 @@ function excluir() {
         
     })
 
-    console.log("DELETEI")
+    console.log("DELETEI!!")
 }
